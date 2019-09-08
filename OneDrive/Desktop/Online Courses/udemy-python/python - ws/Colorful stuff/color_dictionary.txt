@@ -1,4 +1,0 @@
-light pink : #F4B8B8
-grey : #C9D8D8
-cherry : #C51544
-light blue : #B9DDF7
