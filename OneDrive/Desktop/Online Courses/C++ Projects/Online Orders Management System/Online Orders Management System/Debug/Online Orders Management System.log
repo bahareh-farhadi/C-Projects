@@ -1,0 +1,7 @@
+﻿  main.cpp
+  orders.cpp
+c:\users\bahar\onedrive\desktop\online courses\c++ projects\online orders management system\online orders management system\orders.cpp(45): error C2039: 'shipping_date': is not a member of 'orders'
+  c:\users\bahar\onedrive\desktop\online courses\c++ projects\online orders management system\online orders management system\orders.h(7): note: see declaration of 'orders'
+  users.cpp
+c:\users\bahar\onedrive\desktop\online courses\c++ projects\online orders management system\online orders management system\users.cpp(62): warning C4018: '>=': signed/unsigned mismatch
+  Generating Code...

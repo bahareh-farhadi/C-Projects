@@ -1,0 +1,10 @@
+Product ID  |  Product Name  |  Price  |  Seller  |  Shipping Info  |  
+----------------------------------------------------------------------
+1.          |  Hanna Scallop |  C$59.00|  Urban   |  Within 3-5     |
+            |  Mini Dress    |         |Outfitters|  business days  |
+-----------------------------------------------------------------------
+2.          |  High Rise     |  C$73.00| Hollister|  Within 5-7     |
+            |  Mom Jeans     |         |          |  business days  |
+------------------------------------------------------------------------
+3.          |  Faux Leather  | C$120.00|  Zara    |  Within 2-3     |
+            |  Jacket        |         |          |  business days  |
