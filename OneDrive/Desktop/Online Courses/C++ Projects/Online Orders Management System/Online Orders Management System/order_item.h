@@ -9,6 +9,9 @@ private:
 	double price;
 public:
 	order_item(int number, string name, string seller, string ship_date, double price);
+	string get_ship_date();
+	string get_delivery_date();
+	string get_name();
 	~order_item();
 };
 
